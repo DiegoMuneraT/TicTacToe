@@ -1,1 +1,1 @@
-Juego del TicTacToe con React + Vite utilizando Local Storage
+Juego del TicTacToe hecho con React + Vite para repasar refactorización, local storage, renderizado condicional de listas y eventos entre otras cosas
